@@ -4,7 +4,6 @@ public class Game {
 
 
     public void start(){
-        // initializam intrebarile si jocul
     }
 
     public void askQuestion() {
