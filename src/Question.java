@@ -14,6 +14,10 @@ public class Question {
         this.answerList.addAll(answerList);
     }
 
+    public Question(){
+
+    }
+
     public int getMaxLevel(){
         return MAX_LEVEL;
     }
@@ -38,6 +42,10 @@ public class Question {
         }
 
         return null;
+    }
+
+    public void printQuestionAndAnswers() {
+
     }
 
 
